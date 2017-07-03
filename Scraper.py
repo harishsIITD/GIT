@@ -157,7 +157,7 @@ def Thomasreuters(keyword2):
 #    def __init__(s, parent):
 #        global keyword3
         
-bloombergcrawl(10,"HP")
+bloombergcrawl(10,"General Electric")
 #Thomasreuters("apple") 
 
 
